@@ -24,6 +24,16 @@
 - [The Metasploit Framework](#the-metasploit-framework)
 - [Bypassing Antivirus Software](#bypassing-antivirus-software)
 
+Github
+========================================================================================================
+
+-  Clone repo
+   'git clone https://github.com/jamiechap/oscp.git
+
+-  Push changes to github
+   'git push origin master
+
+
 Kali Linux
 ========================================================================================================
 
